@@ -1,2 +1,6 @@
 Testing my script
+<<<<<<< HEAD
 Tesing remote psu
+=======
+Adding more code  to this
+>>>>>>> feature3
