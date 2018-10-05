@@ -1,8 +1,11 @@
 Testing my script
 Fix1
+<<<<<<< HEAD
 Tesing remote psu
 Testing my script
 Testing my script
 =======
 Adding more code  to this
 >>>>>>> feature3
+=======
+>>>>>>> eda0be6... added Fix1
