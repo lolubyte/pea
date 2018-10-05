@@ -1,5 +1,5 @@
 Testing my script
-<<<<<<< HEAD
+Fix1
 Tesing remote psu
 Testing my script
 Testing my script
